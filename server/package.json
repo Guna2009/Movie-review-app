@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abhishek-BG/Movie-Rating-Web.git"
+    "url": "git+https://github.com/Guna2009/Movie-review-app.git"
   },
   "keywords": [
     "Web",
     "App"
   ],
-  "author": "Abhishek",
+  "author": "Harinath Reddy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Abhishek-BG/Movie-Rating-Web/issues"
+    "url": "https://github.com/Guna2009/Movie-review-app/issues"
   },
-  "homepage": "https://github.com/Abhishek-BG/Movie-Rating-Web#readme",
+  "homepage": "https://github.com/Guna2009/Movie-review-app#readme",
   "dependencies": {
     "-": "^0.0.1",
     "axios": "^0.27.2",
